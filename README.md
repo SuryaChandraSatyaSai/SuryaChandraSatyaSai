@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi there! I'm Surya.
 
-<!--
-**SuryaChandraSatyaSai/SuryaChandraSatyaSai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Welcome to my GitHub corner!
 
-Here are some ideas to get you started:
+#### About Me: 
+🎓 Data-driven healthcare professional.  
+🔍 Passionate about using data to solve real-world problems.  
+🔧 I work with SQL, Excel, and Power BI to analyze data, create reports, and generate insights.  
+🌱 Currently learning Python for deeper data exploration.
+#### 📫Reach out to me:
+[LinkedIn](https://www.linkedin.com/in/suryachandrasatyasai/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My projects:
+- [Excel project - Sales & Finance Analytics](https://github.com/SuryaChandraSatyaSai/Excel-Sales-And-Finance-Analytics)
