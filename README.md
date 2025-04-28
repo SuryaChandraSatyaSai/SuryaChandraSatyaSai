@@ -14,3 +14,4 @@
 - [Excel project - Sales & Finance Analytics](https://github.com/SuryaChandraSatyaSai/Excel-Sales-And-Finance-Analytics)
 - [Power BI Project - Business Insights 360](https://github.com/SuryaChandraSatyaSai/Business-Insights-360)
 - [SQL Project - Consumer Goods Ad-Hoc Analysis](https://github.com/SuryaChandraSatyaSai/Consumer_goods_Ad-hoc_insights)
+- [Excel Project -Personal Finance Tracker](https://github.com/SuryaChandraSatyaSai/Personal-Finance-Tracker)
